@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zac-Mwangi/nodeJs-Crash"
+    "url": "git@github.com:Zac-Mwangi/nodeJs-Crash.git"
   },
   "author": "Ragnar",
   "license": "MIT",
